@@ -6,7 +6,7 @@ Abstract: This project highlights the development and evaluation of a resume ana
 - Title:  `Resume Analysis: Information Extraction `
 - Authors:  `Rasha Ashawa`,`Salwa Shamma`,`Sana Shamma`, `Nafisah Shams`
 
-## Install & Dependence
+## Dependence
 - python
 - spacy
 - PyMuPDF
@@ -19,13 +19,9 @@ Abstract: This project highlights the development and evaluation of a resume ana
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/your-username/NLP-Resume-Parsing.git
+git clone https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction.git
 ```
-2. Navigate to the project directory
-```
-cd NLP-Resume-Parsing
-```
-3. Install the required dependencies from requirements.txt
+2. Install the required dependencies from requirements.txt
 
 ## Directory Hierarchy
 ```
@@ -61,6 +57,15 @@ To analyze a resume using the resume analysis module, follow these steps:
 1. Prepare your resume or CV document in a supported format (e.g., PDF).
 2. Pass the document through the resume analysis module.
 3. View the generated analysis report, which includes keyword highlights, identified skills, educational background, work experience, and others.
+
+## ScreenShots 📷
+
+some of the expected output from our model:
+
+![image](https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction/assets/97047182/87cc7ead-8f1d-4d26-8c3a-6b08e85e70dd)
+
+![image](https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction/assets/97047182/f6e46afc-9f04-49a9-baa0-7da277749f6b)
+
 
 ## Code Details
 ### Tested Platform
