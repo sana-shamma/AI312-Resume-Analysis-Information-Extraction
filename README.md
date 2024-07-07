@@ -19,7 +19,7 @@ Abstract: This project highlights the development and evaluation of a resume ana
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction.git
+git clone https://github.com/sana-shamma/AI312-Resume-Analysis-Information-Extraction.git
 ```
 2. Install the required dependencies from requirements.txt
 
